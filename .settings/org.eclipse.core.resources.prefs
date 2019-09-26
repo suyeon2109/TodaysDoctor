@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/config/driver.properties=UTF-8
+encoding//src/config/hospital-query.properties=UTF-8
+encoding//src/config/reserve-query.properties=UTF-8
+encoding//src/config/review-query.properties=UTF-8
+encoding//src/config/user-query.properties=UTF-8
+encoding/<project>=UTF-8
