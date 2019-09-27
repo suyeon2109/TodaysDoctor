@@ -4,4 +4,4 @@
 ### Database Setting
 &nbsp; &nbsp; Run __DOCTOR.sql__ file on SQL Developer.
 
-#### Run todaysDoctor/web/views/main.jsp
+#### * Run todaysDoctor/web/views/main.jsp
